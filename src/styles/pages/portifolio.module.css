@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Montserrat, sans-serif;
+}
+
+div{
+    display: block;
+}
+
+.projectsContainer{
+    width: 100%;
+    color: #686aac;
+    text-align: center;
+    padding-top: 6rem;
+}
+
+.projectsTitle{
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+h2{
+    display: block;
+    align-items: center;
+    font-size: 1.5rem;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.cardsContainer{
+    margin: 0 auto;
+    width: 80%;
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    font-size: 1rem;
+}
+
+.cardProjeto{
+    width: 30%;
+    padding: 2rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap:3rem;
+    font-size: 1.2rem;
+}
+
+h1{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}

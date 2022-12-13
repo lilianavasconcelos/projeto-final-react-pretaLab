@@ -8,6 +8,7 @@ import {Inicio} from './pages/Inicio'
 import{Contato} from './pages/Contato'
 
 import{Sobre} from './pages/Sobre'
+import{Portifolio} from './pages/Portifolio'
 
 export function Router(){
     return(
@@ -16,7 +17,7 @@ export function Router(){
             <Routes>
                 <Route path="/" element ={<Inicio />} />
                 <Route path="/sobre" element ={<Sobre />}/>
-                <Route path="/portifolio" element ={<h1>portifolio</h1>}/>
+                <Route path="/portifolio" element ={<Portifolio/>}/>
                 <Route path="/contato" element ={<Contato/>}/>
             </Routes>
             <Footer/>
