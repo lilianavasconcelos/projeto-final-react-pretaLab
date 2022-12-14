@@ -87,7 +87,5 @@ Siga os passos e inclua as informações abaixo:
 <br />
 <br />
 ---
-<br/>
-![image](https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif)
 
 Feito com 💜 por Liliana Vasconcelos
