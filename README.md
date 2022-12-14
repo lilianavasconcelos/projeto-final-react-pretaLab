@@ -1,6 +1,6 @@
 # Projeto Guiado - ReactJS🚀 
 
-![image](https://media2.giphy.com/media/D567hs4Dex0GEnAKOY/giphy.gif)
+![image](https://media.giphy.com/media/1dNM1kx2q78k9Ug8Kd/giphy.gif)
 
 ---
 
@@ -87,5 +87,6 @@ Siga os passos e inclua as informações abaixo:
 <br />
 <br />
 ---
+![image](https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif)
 
 Feito com 💜 por Liliana Vasconcelos
